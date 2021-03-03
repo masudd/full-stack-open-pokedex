@@ -1,2 +1,2 @@
 
-web: nodee app.jsss
+web: node app.js
